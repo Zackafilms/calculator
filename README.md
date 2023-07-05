@@ -1,1 +1,1 @@
-# calculator
+A calculator package
